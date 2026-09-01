@@ -121,7 +121,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .committee-block { margin-top: 72px; }
 .tpc-list { margin: 40px 0 0; padding: 32px 36px; list-style: none; border-radius: var(--radius); background: var(--surface); columns: 3; column-gap: 40px; }
 .tpc-list li { break-inside: avoid; padding: 10px 0; }
-.tpc-list strong { display: block; color: var(--navy-950); }
+.tpc-list strong { color: var(--navy-950); }
 .tpc-list span { color: var(--muted); font-size: .9rem; }
 .venue-section { padding-top: 20px; }
 .venue-card { overflow: hidden; display: grid; grid-template-columns: 1fr 1fr; align-items: center; border-radius: 28px; color: white; background: linear-gradient(135deg, #06425f, #0b7280); }

@@ -127,15 +127,15 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .paper-list li { padding: 24px 28px; border: 1px solid var(--border); border-radius: var(--radius); background: white; }
 .paper-list h3 { margin: 0; color: var(--navy-950); font-size: 1.1rem; line-height: 1.35; }
 .paper-list p { margin: 8px 0 0; color: var(--muted); font-size: .93rem; }
-#schedule .schedule-session { margin: 0 auto 2.5rem; max-width: 900px; }
-#schedule .schedule-session h3 { margin-bottom: 0.25rem; }
-#schedule .schedule-session .session-time { margin-top: 0; opacity: 0.75; font-weight: 600; }
-#schedule .schedule-table { width: 100%; border-collapse: collapse; }
-#schedule .schedule-table td { padding: 0.85rem 0.75rem; vertical-align: top; border-top: 1px solid rgba(127, 127, 127, 0.25); }
-#schedule .schedule-table td.slot { white-space: nowrap; font-weight: 600; width: 8.5rem; }
-#schedule .schedule-table .paper-title { display: block; font-weight: 600; }
-#schedule .schedule-table .paper-authors { display: block; opacity: 0.8; margin-top: 0.2rem; }
-#schedule .schedule-note { max-width: 900px; margin: 0 auto; text-align: center; opacity: 0.75; font-size: 0.95rem; }
+#programme .schedule-session { margin: 0 auto 2.5rem; max-width: 900px; }
+#programme .schedule-session h3 { margin-bottom: 0.25rem; }
+#programme .schedule-session .session-time { margin-top: 0; opacity: 0.75; font-weight: 600; }
+#programme .schedule-table { width: 100%; border-collapse: collapse; }
+#programme .schedule-table td { padding: 0.85rem 0.75rem; vertical-align: top; border-top: 1px solid rgba(127, 127, 127, 0.25); }
+#programme .schedule-table td.slot { white-space: nowrap; font-weight: 600; width: 8.5rem; }
+#programme .schedule-table .paper-title { display: block; font-weight: 600; }
+#programme .schedule-table .paper-authors { display: block; opacity: 0.8; margin-top: 0.2rem; }
+#programme .schedule-note { max-width: 900px; margin: 0 auto; text-align: center; opacity: 0.75; font-size: 0.95rem; }
 .venue-section { padding-top: 20px; }
 .venue-card { overflow: hidden; display: grid; grid-template-columns: 1fr 1fr; align-items: center; border-radius: 28px; color: white; background: linear-gradient(135deg, #06425f, #0b7280); }
 .venue-card > div:first-child { padding: 52px; }
